@@ -1,0 +1,83 @@
+// <![CDATA[
+
+ var clickCountq1m2 = 0;  
+
+ var capq1m2 = 4;
+
+ var remainq1m2 = capq1m2 - clickCountq1m2;
+
+ function ClickTrackerq1m2()  
+
+ { 
+
+ if(clickCountq1m2 < capq1m2)  
+
+{ 
+
+ clickCountq1m2++; 
+
+ remainq1m2 = capq1m2 - clickCountq1m2;
+
+document.getElementById('turnsq1m2').innerHTML = remainq1m2;
+
+ if(remainq1m2 == 0) {
+
+document.getElementById('vizzyq1m2').innerHTML = 'Last time';
+
+  var oldlinkq1m2 = document.getElementById('thelinkq1m2').innerHTML;
+
+var newlinkq1m2 = "<span style='color:#c0c0c0'>" + oldlinkq1m2 + "</span>";
+
+document.getElementById('paraq1m2').innerHTML = newlinkq1m2;  
+
+}                   
+
+ return true;  
+
+}  
+
+else  
+
+{  
+
+         return false;  
+
+ }  
+
+}  
+
+var popupWindow=null;
+
+function popup(mypage,myname,w,h,pos,infocus){
+
+if (pos == 'random')
+
+{LeftPosition=(screen.width)?Math.floor(Math.random()*(screen.width-w)):100;TopPosition=(screen.height)?Math.floor(Math.random()*((screen.height-h)-75)):100;}
+
+else
+
+{LeftPosition=(screen.width)?(screen.width-w)/2:100;TopPosition=(screen.height)?(screen.height-h)/2:100;}
+
+settings='width='+ w + ',height='+ h + ',top=' + TopPosition + ',left=' + LeftPosition + ',scrollbars=no,location=no,directories=no,status=no,menubar=no,toolbar=no,resizable=no';popupWindow=window.open('',myname,settings);
+
+if(infocus=='front'){popupWindow.focus();popupWindow.location=mypage;}
+
+if(infocus=='back'){popupWindow.blur();popupWindow.location=mypage;popupWindow.blur();}
+
+}
+
+// --&gt;
+
+// ]]>
+
+</script>
+
+<p>Notate the following melody (q1m2) on a separate piece of paper.&#160;</p>
+
+<p>It is in the key of Bb Major in 4/quarter time.&#160; It begins on Mi on the downbeat. <br/>You will hear two measures of beats on Do before the melody begins.</p>
+
+<p>You have <b id="turnsq1m2">4</b> hearing(s) left, then the link will be inactive.</p>
+
+<p><b id="vizzyq1m2"><a style="font-size: 12px; font-family: verdana;" href="javascript:popup('/d2l/common/dialogs/quickLink/quickLink.d2l?ou=11422&amp;type=coursefile&amp;fileId=audio/m1630-ques/m1630-s12-q1/m1630-s12-q1m2.html','rhy1w','50','20','fixed','back');" onclick="return ClickTrackerq1m2()">Play q1m2<br/></a></b></p>
+
+<p>Please add any comments you need in the space below.</p></div><div style="text-align:left;margin-bottom:0.5em;"></div></div><fieldset class="dfs_m block_disp"><legend class="dfs_l dsr"><span  >Question 2 options:</span></legend><div class="dfs_c"><table summary="" class="d_t"><tr><td class="d_tl d_tm d_tn"><input id="z_h" class="d_edt" type="text" size="20" name="tAtom67940_1056445_4466000" onchange="WindowEventManager.BC(this,event);" onkeypress="if(D2L.Util.Dom.IsKeyEnter(event)){;;return false;}return true;"/><a title="Spell check " href="javascript://" onclick="UI.GC('z_h').OpenSpellChecker();;return false;" class="di_l"><img src="/d2l/img/0/Shared.Main.actSpellCheck.gif?v=9.4.1000.156-7" alt="Spell check " class="di_i di_16" title="Spell check " style="margin:0em 0.4em;"/></a></td></tr></table></div></fieldset></div><button type="button" id="z_i" class="dbtn dbtn_n" style="margin-left:0.5em;" title="Save Question 2">Save</button><div style="text-align:left;margin-bottom:0.9em;"></div><a id="q4984160" name="q4984160"></a><h2 class="dhdg_2"><strong>Information</strong></h2><div style="text-align:left;margin-bottom:0.5em;margin-left:0.9em;"><div style="text-align:left;width:100%;margin-top:0.5em;margin-bottom:0.5em;"><div class="drt"><script type="text/javascript">
