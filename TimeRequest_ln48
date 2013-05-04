@@ -1,0 +1,266 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" xml:lang="en-us">
+  <head>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+		<title>m1630-s13-Qz3 - Preview - MUS-1630 Aural Skills II s'13 - Elearning - Western Michigan University</title>
+		<link rel="stylesheet" type="text/css" href="/d2l/lp/packaging/D2L.LP.Web.Core/style?h=10000000001&amp;v=9.4.1000.163-9" />
+		<style type="text/css">
+		/*<![CDATA[*/
+			img.di_16 {width:1.4545em;height:1.4545em;}
+			img.di_24 {width:2.1818em;height:2.1818em;}
+			body {font-size:0.6875em;font-family:verdana, sans-serif;}button.dbtn {font-family:verdana, sans-serif;}
+			td, th {font-family:verdana, sans-serif;}
+			input.d_edt, select, textarea {font-family:verdana, sans-serif;font-size:1em;}
+			.cDark { background-color:#331900;}
+			.cDark a, .cDark a:link, .cDark a:visited, .cDark a:hover {color:#ffffff;font-weight:normal;}
+			.cLight { background-color:#663300;}
+			.cLight a, .cLight a:link, .cLight a:visited, .cLight a:hover {color:#ffffff;font-weight:normal;}
+			.cSoft { background-color:#EFEFEF;}
+			.cSoft a, .cSoft a:link, .cSoft a:visited, .cSoft a:hover {color:#666666;font-weight:normal;}
+			.d_grad_160 {background:-webkit-gradient(linear,right top,left top,from(#B25600),color-stop(0.2, #331900));}
+		/*]]>*/
+		</style>
+		<script type="text/javascript">
+		//<![CDATA[
+			var Global = {OrgUnitId:78947,OrgId:6606,OrgName:'Elearning - Western Michigan University',OrgUnitName:'MUS-1630 Aural Skills II s\u002713',OrgUnitCode:'11884.201310',OrgUnitTypeId:3,OrgDefinedId:'566801881',OrgUnitPath:'\/content\/enforced\/78947-11884.201310\/',FirstName:'David',LastName:'Code',UserName:'code',UserId:180,RoleId:102,RoleCode:'02',ImageSetId:0,ImageVersion:'9.4.1000.163-9',AssemblyVersion:'9.4.1000.163-9',Language:{LanguageId:1,LanguageVersion:'9.4.1000.163-9'},Culture:{IsRightToLeft:0},Preferences:{UseNonModalDialogs:0,FontFamily:'verdana',FontSize:11}};
+			var BrowserInfo = {browserType:'Chrome',Type:10,MajorVersion:26,MinorVersion:0};
+		//]]>
+		</script>
+		<script src="/d2l/lp/packaging/D2L.LP.Web.Core/script?h=100&amp;v=9.4.1000.163-9" type="text/javascript"></script>
+		<script src="/d2l/common/mathjax/2.1.0/MathJax.js?config=MML_HTMLorMML%2c%2fd2l%2flp%2fmath%2fdisplay%2fconfig.js%3fv%3d9.4.1000.163-9&amp;v=9.4.1000.163-9" type="text/javascript"></script>
+		<script type="text/javascript">
+		//<![CDATA[
+			D2L.Serialization.JsonDeserializerMin.Deserialize(['838ca075ec7e43ecb406cc2fd73f7390',442,-738098766,1,{'d2l_body':0.6875},[{}],[[]],[[]],[[],0],[0,['Sun','Mon','Tue','Wed','Thu','Fri','Sat'],['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'],['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec',''],['January','February','March','April','May','June','July','August','September','October','November','December',''],'min','minute','minutes','h','hour','hours','day','days','^([\\(-]*(([01234567890123456789]?[01234567890123456789]?([01234567890123456789](,[01234567890123456789][01234567890123456789][01234567890123456789])*)))(\\.[01234567890123456789]+)?[\\)-]*)$|^([\\(-]*[01234567890123456789]*\\.?[01234567890123456789]+[\\)-]*)$','^([\\(-]*(([01234567890123456789]?[01234567890123456789]?([01234567890123456789](,[01234567890123456789][01234567890123456789][01234567890123456789])*)?))[\\)-]*)$|^([\\(-]*[01234567890123456789]+[\\)-]*)$',0,'.',1,'-',',',['0','1','2','3','4','5','6','7','8','9'],'%',0,0,[6,0],'M\/d\/yyyy',0,[3],0],[],1,{'ClassName':'D2L.Util.DateTime','Year':2013,'Month':5,'Day':4,'Hour':13,'Minute':19,'Second':59,'Millisecond':461}],D2L.UI);
+			D2L.Language.InitLang({'standard.buttons':{'btnremove':'Remove','btnremoveselected':'Remove Selected','btnpublish':'Publish','btnrefresh':'Refresh','btnreset':'Reset','btnreturn':'Return','btnrename':'Rename','btnreplace':'Replace','btnproceed':'Proceed','btnok':'OK','btnokay':'OK','btnnext':'Next','btnno':'No ','btnprevious':'Previous ','btnprint':'Print','btnoverwrite':'Overwrite','btnpreview':'Preview','btnstart':'Start','btnsubmit':'Submit','btnshowall':'Show All','btnskip':'Skip','btnview':'View','btnyes':'Yes','btnupdate':'Update','btnupload':'Upload','btnset':'Set','btnsave':'Save','btnsaveandcopy':'Save and Copy','btnrevert':'Undo Unsaved Changes','btnrun':'Run','btnselectcurrentfolder':'Select Current Folder','btnsend':'Send','btnsaveandnew':'Save and New','btnsearch':'Search','btnnew':'New','btnclear':'Clear','btnclearall':'Clear All','btnchange':'Change','btnchangepassword':'Change Password','btnconfirm':'Confirm','btncontinue':'Continue','btnclearlist':'Clear List','btnclose':'Close','btncancel':'Cancel','btnaddanother':'Add Another','btnaddselected':'Add Selected','btnadd':'Add','btnaddandnew':'Add and New','btnback':'Back','btnbrowse':'Browse','btnadmin':'Admin','btnapply':'Apply','btngoback':'Go Back','btnhistory':'History','btnfinish':'Finish','btngo':'Go','btninsert':'Insert','btnlistall':'List All','btnhome':'Home','btnimport':'Import','btnexport':'Export','btndelete':'Delete','btndeleteselected':'Delete Selected','btncopy':'Copy','btncreate':'Create','btndownload':'Download','btnedit':'Edit','btndone':'Done','btndontsave':'Don\u0027t Save'},'framework.dialog':{'titinputrequested':'Choose a Value','titinformation':'Information','titerror':'Error','titwarning':'Warning','titsavechanges':'Save Changes','titprocessing':'Processing...','titconfirmation':'Confirmation','altjumptop':'Jump to top of [0] dialog','altjumpbottom':'Jump to bottom of [0] dialog','altclosedialog':'Close this Dialog','lblsaveconfirmationsecondary':'Do you want to save the changes?','lblsaveconfirmationprimary':'This page has been edited.','altresizedialog':'Resize this Dialog'},'framework.messagearea':{'lblstatus5':'Copied successfully','lblstatus4':'Reordered successfully','lblstatus3':'Created successfully','lblstatus6':'Imported successfully','lblstatus9':'Added successfully','lblstatus8':'Moved successfully','lblstatus7':'Exported successfully','lblstatus2':'Deleted successfully','lblstatus1':'Saved successfully','lblerrors':'There were [b][0] error(s)[\/b] found in the information you submitted:','hdrerrors':'Errors','lblstatus10':'Removed successfully','lblstatus13':'Sent successfully','lblstatus12':'Unenrolled successfully','lblstatus11':'Enrolled successfully'}},{'standard.misc.txtloading':'Loading...','standard.misc.txtcopyright':'Powered by Desire2Learn Incorporated'});
+			D2L.Language.InitImg({'framework.messagearea':{'actstatus6':['0\/Framework.MessageArea.actStatus6.gif'],'actstatus5':['0\/Framework.MessageArea.actStatus5.gif'],'actstatus4':['0\/Framework.MessageArea.actStatus4.gif'],'actstatus7':['0\/Framework.MessageArea.actStatus7.gif'],'actstatus14':['0\/Framework.MessageArea.actStatus14.png',12],'actstatus9':['0\/Framework.MessageArea.actStatus9.gif'],'actstatus8':['0\/Framework.MessageArea.actStatus8.gif'],'actstatus11':['0\/Framework.MessageArea.actStatus11.gif'],'actstatus10':['0\/Framework.MessageArea.actStatus10.gif'],'actstatus1':['0\/Framework.MessageArea.actStatus1.gif'],'actstatus12':['0\/Framework.MessageArea.actStatus12.gif'],'actstatus3':['0\/Framework.MessageArea.actStatus3.gif'],'actstatus2':['0\/Framework.MessageArea.actStatus2.gif'],'actstatus13':['0\/Framework.MessageArea.actStatus13.gif']}},{});
+			function d2l_Onload() {
+				UI.OnPageLoad().Trigger();
+				StartTimer();
+			}
+			function d2l_Onunload() {
+				UI.OnPageUnload().Trigger();
+				D2L.GarbageCollection.Dispose();
+			}
+		//]]>
+		</script>
+		<script type="text/javascript">
+		//<![CDATA[
+		function TimeRequest() {
+	var Callback = function( rpcResponse ) {
+		if( rpcResponse.GetType() == D2L.Rpc.ResponseType.Success ) {
+			var timeResults = rpcResponse.GetResult();	
+			var timeTakenDisplay = timeResults[0];
+			var timeLeftDisplay = timeResults[1];
+			var timeTaken = parseFloat( timeResults[2] );
+
+			var lblTimer = UI.GetById( 'timer_id' );
+
+			if( enforceTimeLimit ) {
+				var timeLeft = timeLimit - timeTaken;				
+			
+				if( timeLeft > 0 ) {
+					lblTimer.innerHTML = timeLeftDisplay;
+
+				} else if( timeLeft == 0 ) {
+					lblTimer.innerHTML = '&lt; 1 minute';
+
+				} else {
+					lblTimer.innerHTML = 'Time Exceeded';
+
+					if( !timeExceeded ) {
+						timeExceeded = true;
+						if( timeLeft + graceLimit >= 0 ) {
+							Nav.SubmitAction( 'Custom', 'texc' );
+						} else {
+							if( lateLimit > 0 ) {
+								if( timeLeft + graceLimit + lateLimit >= 0 ) {
+									Nav.SubmitAction( 'Custom', 'tgexc' );
+								} else {
+									Nav.SubmitAction( 'Custom', 'tgllexc' );
+								}
+							} else {
+								Nav.SubmitAction( 'Custom', 'tgexc' );
+							}
+						}					
+
+					} else if( !graceExceeded && (timeLeft + graceLimit < 0) ) {
+						
+						graceExceeded = true;
+						parent.pageFrame.UI.GetControl('HID_isFinalAutoSave').SetValue('true');
+						parent.pageFrame.UI.GetControl('BTN_saveAll').Click();
+						Nav.SubmitAction( 'Custom', 'gexc' );
+
+					} else if( timeExceeded && graceExceeded && ( lateLimit > 0 ) ) {
+						if( !lateExceeded && (timeLeft + graceLimit + lateLimit < 0) ) {
+							
+							lateExceeded = true;
+							Nav.SubmitAction( 'Custom', 'llexc' );
+						}
+					}
+				}
+			} else {
+				lblTimer.innerHTML = timeTakenDisplay; 
+			}
+		}
+
+	};
+	
+	if( typeof(timeLimit) == "undefined" ) {
+	D2L.Rpc.Create( 'DoUtcTimeRequest', Callback, '/d2l/lms/quizzing/rpc/rpc_functions.d2l' ).Call( timeStartedTicks, 1000 );
+	} else {
+	D2L.Rpc.Create( 'DoUtcTimeRequest', Callback, '/d2l/lms/quizzing/rpc/rpc_functions.d2l' ).Call( timeStartedTicks, timeLimit );
+	}
+	setTimeout( TimeRequest, 30000 );
+}
+
+function StartTimer() {
+	TimeRequest();
+}
+
+		//]]>
+		</script>
+		<script type="text/javascript">
+		//<![CDATA[
+		
+function GoToQuiz( quizId, isUserAuthorized ) {
+	if( isUserAuthorized ) {
+		DoGoToQuiz( quizId );
+	} else  {
+		var authResult = AuthorizeUser( quizId );
+		
+		authResult.Register( function( authOk ) {
+				if( authOk ) {
+					DoGoToQuiz( quizId );
+				}
+			}
+		);	
+	}
+}
+
+function DoGoToQuiz( quizId ) {
+	var ni = new D2L.NavInfo();
+	ni.navigation = '/d2l/lms/quizzing/user/quiz_summary.d2l';
+	ni.SetParam( 'qi', quizId );				
+	Nav.Go( ni );
+}
+
+function PreviewQuiz( quizId, isUserAuthorized ) {
+
+	if( isUserAuthorized ) {
+		DoPreviewQuiz( quizId );
+	} else  {
+		var authResult = AuthorizeUser( quizId );
+		
+		authResult.Register( function( authOk ) {
+				if( authOk ) {
+					DoPreviewQuiz( quizId );
+				}
+			}
+		);	
+	}	
+}
+
+function DoPreviewQuiz( quizId ) {
+	var ni = new D2L.NavInfo();
+	ni.navigation = '/d2l/lms/quizzing/user/quiz_summary.d2l';
+	ni.SetParam( 'bp', 1 );	
+	ni.SetParam( 'isprv', 1 );		
+	ni.SetParam( 'qi', quizId );
+	Nav.Go( ni );	
+}
+
+function AuthorizeUser( quizId ) {
+
+	var dr = new D2L.Util.DelayedReturn();
+
+	var hdl = function( response ) {
+		dr.Trigger( response.GetType() == D2L.Dialog.ResponseType.Positive ) ;
+		response.GetDialog().Close();
+	};
+	
+	ShowAuthorizationDialog(quizId, hdl);
+	
+	return dr;
+}
+
+function ShowAuthorizationDialog(quizId, hdl) {
+	
+	var dialog = new D2L.Dialog( 'dialog', hdl );
+	dialog.AddButton( D2L.Dialog.ButtonType.Cancel, '', 'cancelButton' );
+	var btnSubmit = dialog.AddCustomButton( 'Submit', D2L.Dialog.ButtonPosition.Right, D2L.Dialog.ResponseType.Positive, '', 'btnSubmit' );
+	btnSubmit.SetIsEnabled( false );
+
+	dialog.SetSrc( '/d2l/lms/authorizationschemes/commoncartridge/pin_entry.d2l', 'SrcCallback' );
+	
+	dialog.SetSrcParam( 'authCallback', '' );
+	dialog.SetSrcParam( 'resourceId',   quizId );
+	dialog.SetSrcParam( 'resourceType', '0' ); // 0 - quiz
+	dialog.SetSrcParam( 'cartridgeId',   '' );
+	
+	dialog.SetSize( 600, 600 );
+
+	dialog.SetTitle( 'Protected Resource' );
+	dialog.SetIsResizable(false);	
+
+	dialog.Open();		
+}
+			
+		//]]>
+		</script>
+</head>
+	<body id="d2l_body" onunload="d2l_Onunload();" onload="d2l_Onload();" class="dbd_frame">
+		<div id="d_content">
+			<div id="d_content_r_c1">
+				<div id="d_content_r_c2">
+					<div id="d_content_r">
+						<div class="d_bnd d_grad_160 cDark" id="z_a">
+								<h2>m1630-s13-Qz3 - Preview</h2>
+							</div>
+<div id="d_content_r_p">
+							<form method="post" action="quiz_attempt_top.d2l?ou=78947&amp;isprv=1&amp;drc=0&amp;impcf=&amp;qi=70551&amp;ai=757453&amp;d2l_body_type=1" id="d2l_form" enctype="multipart/form-data" onreset="return false;">
+								<div>
+									<input type="hidden" name="d2l_action" value="" />
+									<input type="hidden" name="d2l_actionparam" value="" />
+									<input type="hidden" name="d2l_hitCode" value="" />
+									<input type="hidden" name="d2l_rf" value="" />
+									<input type="hidden" name="d2l_controlMapPrev" value="" />
+<table cellspacing="0" cellpadding="0" style="width:100%" summary="">
+								<tr>
+									<td class="dlay_l"><label id="z_b"><strong>Est. Length:</strong> 1:00:00</label><label id="z_c" style="margin-right:0em;margin-left:2.7em;"><strong>Time Taken:</strong> </label><label id="timer_id"></label></td>
+									<td class="dlay_m"></td>
+									<td class="dlay_r"><button type="button" id="z_d" class="dbtn dbtn_n">Exit Preview</button></td>
+								</tr>
+							</table>
+
+							<input type="hidden" name="d2l_controlMap" value="[{'band_top':['z_a','Band',[],{},0,1],'lbl_timelimit':['z_b','Label',[],{},0,1],'lbl_timertext':['z_c','Label',[],{},0,1],'lbl_timer':['timer_id','Label',[],{},0,1],'btn_exit':['z_d','Button',['parent.ExitQuiz( false );return false;',0],{},1,1],'ctl_messagearea':['z_e','MessageArea',['d_content_r','z_a',0,[],null,null],{},0,0]},{}]" />
+							<input type="hidden" name="d2l_state" value="[{'3':['grid','pagesize','htmleditor','hpg'],'1':['gridpagenum','search','pagenum'],'2':['lcs']},[]]" />
+							<input type="hidden" name="d2l_session" value="VALDXY6BqQnJixFiwibJvHdse" />
+						</div>
+					</form>
+				</div></div>
+		</div>
+	</div>
+</div>
+<div class="clear"></div>
+<script type="text/javascript">
+//<![CDATA[
+	UI.Init();
+	D2L.OR["__gctl_1"] = {};
+	D2L.OR["__gctl_1"][0]="{\"_type\":\"func\",\"N\":\"D2L.PT.Auth.SessionTimeout.Init\",\"P\":[180,\"Your session has been inactive for some time. Press \u0027OK\u0027 to remain logged in.\",\"Your session has expired. Any unsaved work will be lost if you continue to use the system.\\r\\n\\r\\nIf you have unsaved work, we recommend you:\\r\\na) Open a new browser tab\/window and log back in before proceeding.\\r\\nb) Copy and paste unsaved work into another application (such as Notepad) before proceeding.\",{\"_type\":\"url\",\"Url\":\"\/d2l\/lp\/auth\/session\/extend\"}]}";
+	D2L.O("__gctl_1",0)()
+	D2L.OR["__gctl_1"][1]="{\"_type\":\"func\",\"N\":\"D2L.LP.Web.UI.Common.Controls.MessageArea.Init\",\"P\":[{\"_type\":\"id\",\"Value\":\"d2l_messagearea\"},{\"_type\":\"url\",\"Url\":\"\/d2l\/lp\/validation\/errors\"},\"Error\",\"OK\"]}";
+	D2L.O("__gctl_1",1)()
+	D2L.OR["__gctl_1"][2]="{\"_type\":\"func\",\"N\":\"D2L.LP.Web.UI.Html.Aria.Init\",\"P\":[false]}";
+	D2L.O("__gctl_1",2)()
+	D2L.OR["__gctl_1"][3]="{\"_type\":\"func\",\"N\":\"D2L.LP.Globalization.Locale.Init\",\"P\":[{\"_type\":\"anon\",\"DecimalSeparator\":\".\",\"GroupSeparator\":\",\",\"NumberNegativePattern\":1,\"PercentPositivePattern\":0,\"PercentNegativePattern\":0,\"PercentSymbol\":\"%\",\"NegativeSign\":\"-\",\"NativeDigits\":[\"0\",\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\"],\"UseNativeDigits\":false,\"GroupSizes\":[3],\"IntegerRegex\":\"^([\\\\(-]*(([01234567890123456789]?[01234567890123456789]?([01234567890123456789](,[01234567890123456789][01234567890123456789][01234567890123456789])*)?))[\\\\)-]*)$|^([\\\\(-]*[01234567890123456789]+[\\\\)-]*)$\",\"DecimalRegex\":\"^([\\\\(-]*(([01234567890123456789]?[01234567890123456789]?([01234567890123456789](,[01234567890123456789][01234567890123456789][01234567890123456789])*)))(\\\\.[01234567890123456789]+)?[\\\\)-]*)$|^([\\\\(-]*[01234567890123456789]*\\\\.?[01234567890123456789]+[\\\\)-]*)$\"},{\"_type\":\"anon\",\"InputDateFormat\":\"M\/d\/yyyy\",\"Is24HourClock\":false,\"NativeDigits\":[\"0\",\"1\",\"2\",\"3\",\"4\",\"5\",\"6\",\"7\",\"8\",\"9\"],\"UseNativeDigits\":false,\"TimeFormat\":\"h:mm tt\",\"AmDesignator\":\"AM\",\"PmDesignator\":\"PM\"},{\"_type\":\"anon\",\"TextDirection\":1}]}";
+	D2L.O("__gctl_1",3)()
+	D2L.OR["__gctl_1"][4]="{\"_type\":\"func\",\"N\":\"D2L.LP.Web.UI.Rpc.Initialize\",\"P\":[{\"_type\":\"url\",\"Url\":\"\/d2l\/login?target=%2fd2l%2flms%2fquizzing%2fuser%2fattempt%2fquiz_attempt_top.d2l%3fou%3d78947%26isprv%3d1%26drc%3d0%26impcf%3d%26qi%3d70551%26ai%3d757453%26d2l_body_type%3d1&sessionExpired=1\"},\"Error: unable to complete your request.\",{\"_type\":\"D2L.LP.Util.Dictionary\",\"flash\":{\"_type\":\"func\",\"N\":\"D2L.LP.Web.UI.Desktop.Controls.FlashMessages.RpcSendPayloadProvider\"}},{\"_type\":\"D2L.LP.Util.Dictionary\",\"flash\":{\"_type\":\"func\",\"N\":\"D2L.LP.Web.UI.Desktop.Controls.FlashMessages.RpcReceivePayloadProvider\"}}]}";
+	D2L.O("__gctl_1",4)()
+	D2L.OR["__gctl_1"][5]="{\"_type\":\"func\",\"N\":\"D2L.LP.Web.UI.Desktop.Controls.InlineHelp.Init\",\"P\":[{\"_type\":\"url\",\"Url\":\"\/d2l\/lp\/inlineHelp\/78947\/help\"}]}";
+	D2L.O("__gctl_1",5)()
+	var timeStartedTicks = 635032845829730000
+	var enforceTimeLimit = false;
+//]]>
+</script>
+</body>
+</html>
