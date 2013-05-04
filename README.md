@@ -11,5 +11,8 @@ However, the quiz itself has a clock.  There is another frame, separate from the
 
 I want to call this time-elapsed variable from within the quiz question when the page is launched.  If timeElapsed > 0, it means that this is a refresh and it will not reset the countdown timers.
 
+Included are 2 files:
+  CallTime is the source code for the frame that posts the elapsedTime.  The most relevant stuff starts at line 48.
+  Quiz_question is a sample quiz question in the content frame in which I want to call the elapsedTime
 
 callTime
